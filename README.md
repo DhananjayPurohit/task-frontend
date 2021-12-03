@@ -5,6 +5,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+WIP (Deployment on gh-pages at https://dhananjaypurohit.github.io/task-frontend/ need some fixes) 
+
 ## Setup
 
 1. Clone the repo.
