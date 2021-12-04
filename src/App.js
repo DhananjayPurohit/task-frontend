@@ -8,7 +8,7 @@ import Home from './pages/Home';
 
 function App() {
   return (
-    <Router>
+    <Router basename={window.location.pathname}>
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>

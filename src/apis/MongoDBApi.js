@@ -1,11 +1,11 @@
 export const mongodbAPIs = {
     getRepoList: () => {
-        return 'https://secret-everglades-26382.herokuapp.com';
+        return 'http://localhost:8080/';
     },
     addRepo: () => {
-        return 'https://secret-everglades-26382.herokuapp.com/addRepo'
+        return 'http://localhost:8080/addRepo'
     },
     deleteRepo: () => {
-        return 'https://secret-everglades-26382.herokuapp.com/deleteRepo'
+        return 'http://localhost:8080/deleteRepo'
     }
 };
