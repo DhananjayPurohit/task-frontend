@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/DhananjayPurohit/task-frontend/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/DhananjayPurohit/task-frontend/static/js/main.0f62df62.chunk.js",
-    "main.js.map": "/DhananjayPurohit/task-frontend/static/js/main.0f62df62.chunk.js.map",
-    "runtime-main.js": "/DhananjayPurohit/task-frontend/static/js/runtime-main.d1bcd368.js",
-    "runtime-main.js.map": "/DhananjayPurohit/task-frontend/static/js/runtime-main.d1bcd368.js.map",
-    "static/js/2.7ae03ae1.chunk.js": "/DhananjayPurohit/task-frontend/static/js/2.7ae03ae1.chunk.js",
-    "static/js/2.7ae03ae1.chunk.js.map": "/DhananjayPurohit/task-frontend/static/js/2.7ae03ae1.chunk.js.map",
-    "static/js/3.807e96a8.chunk.js": "/DhananjayPurohit/task-frontend/static/js/3.807e96a8.chunk.js",
-    "static/js/3.807e96a8.chunk.js.map": "/DhananjayPurohit/task-frontend/static/js/3.807e96a8.chunk.js.map",
-    "index.html": "/DhananjayPurohit/task-frontend/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/DhananjayPurohit/task-frontend/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.7ae03ae1.chunk.js.LICENSE.txt": "/DhananjayPurohit/task-frontend/static/js/2.7ae03ae1.chunk.js.LICENSE.txt"
+    "main.css": "/task-frontend/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/task-frontend/static/js/main.0f62df62.chunk.js",
+    "main.js.map": "/task-frontend/static/js/main.0f62df62.chunk.js.map",
+    "runtime-main.js": "/task-frontend/static/js/runtime-main.c8d4d2f6.js",
+    "runtime-main.js.map": "/task-frontend/static/js/runtime-main.c8d4d2f6.js.map",
+    "static/js/2.7ae03ae1.chunk.js": "/task-frontend/static/js/2.7ae03ae1.chunk.js",
+    "static/js/2.7ae03ae1.chunk.js.map": "/task-frontend/static/js/2.7ae03ae1.chunk.js.map",
+    "static/js/3.807e96a8.chunk.js": "/task-frontend/static/js/3.807e96a8.chunk.js",
+    "static/js/3.807e96a8.chunk.js.map": "/task-frontend/static/js/3.807e96a8.chunk.js.map",
+    "index.html": "/task-frontend/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/task-frontend/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.7ae03ae1.chunk.js.LICENSE.txt": "/task-frontend/static/js/2.7ae03ae1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d1bcd368.js",
+    "static/js/runtime-main.c8d4d2f6.js",
     "static/js/2.7ae03ae1.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.0f62df62.chunk.js"
